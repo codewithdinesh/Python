@@ -1,3 +1,7 @@
+# there are 2 type of argugment passing
+# 1) pass by value 
+# 2) pass by referance
+
 def change_number(num):
     num+=10
 def change_list(num_list):

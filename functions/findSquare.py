@@ -1,3 +1,6 @@
+#create function to return square of given number
+
+
 def find_Square(n):
     return n*n
 
