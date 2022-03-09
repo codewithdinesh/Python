@@ -5,10 +5,10 @@
 n1 = int(input("Enter 1st number: "))
 flag = False
 
-if(n1> 1):
-    for i in range(2,n1):
-        if(n1%i)==0:
-            flag= True
+if(n1 > 1):
+    for i in range(2, n1):
+        if(n1 % i) == 0:
+            flag = True
             break
 
 if flag:
@@ -16,4 +16,3 @@ if flag:
 
 else:
     print("Prime Number ")
-    
