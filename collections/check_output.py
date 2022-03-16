@@ -50,3 +50,11 @@ if(word == "Mysore"):
 else:
     message = message[3:14]
     print(message)
+
+# cancat:
+
+l1 =[10,20,90,70,"Dinesh","Omkar"]
+l2=["Rohit","Sanket","vedant",90]
+
+l3= l1+l2
+print(l3)
