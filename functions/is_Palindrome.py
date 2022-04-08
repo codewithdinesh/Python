@@ -6,6 +6,7 @@ def is_Palindrome(num):
     sum = 0
     while(temp > 0):
         rm = temp % 10
+        print(rm)
         sum = sum * 10 + rm
         temp = temp//10
     
