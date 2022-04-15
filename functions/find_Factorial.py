@@ -8,4 +8,8 @@ def factorial(num):
 
 
 n = int(input("Enter Number to find factorial : "))
-print("Factorial of ", n, " is : ", factorial(n))
+
+if(n>1):
+    print("Factorial of ", n, " is : ", factorial(n))
+else:
+    print("Factorial number can not be negative")
