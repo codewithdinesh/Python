@@ -1,2 +1,2 @@
 # Python
-This Repository describes the Python Course from basic concepts.
+This Repository contains the Python programs from basic concepts.
