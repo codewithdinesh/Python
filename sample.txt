@@ -1,4 +1,1 @@
 Hello,
-This is a simple text file.
-It will be used to perform File operation in Python.
-

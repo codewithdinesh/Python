@@ -6,4 +6,4 @@ x = 10
 y = 50
 
 # generate random number between x and y
-print(random.randrange(x, y))
+print(random.randint(x,y))

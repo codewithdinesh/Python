@@ -46,6 +46,7 @@ print("substraction with numpy.subtract():", np.subtract(arr, arr2))
 print("multiplication: \n", arr*arr2)
 
 
+
 # divition
 print("Division: \n", arr/arr2)
 
